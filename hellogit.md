@@ -9,4 +9,5 @@ add
 commit
 push
 
-branch
+## branch
+브랜치 기능 사용
