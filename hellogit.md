@@ -1,5 +1,3 @@
-diff a/hellogit.md b/hellogit.md	(rejected hunks)
-@@ -1,10 +1,23 @@
  # hellogit github 공부
 +##  1
 +#### 2
@@ -19,8 +17,12 @@ diff a/hellogit.md b/hellogit.md	(rejected hunks)
 +add  
 +commit  
 +push  
-+
-+
+
+## branch
+브랜치 기능 사용
+
+
+
 +*This text will be italic*
 +_This will also be italic_
 +
@@ -28,4 +30,5 @@ diff a/hellogit.md b/hellogit.md	(rejected hunks)
 +__This will also be bold__
 +
 +_You **can** combine them_
-\ No newline at end of file
+
+
